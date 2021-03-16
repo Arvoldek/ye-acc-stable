@@ -4,8 +4,8 @@
   }, i[r].l = 1 * new Date(); a = s.createElement(o),
     m = s.getElementsByTagName(o)[0]; a.async = 1; a.id = 'yesElf'; a.src = g; m.parentNode.insertBefore(a, m.nextSibling)
 })
-  (window, document, 'script', 'https://yeself-cloud-acc-app.brux.space:443/sdk/7aeb2b05-545a-4558-9a4c-7652e88b143e/app.js', 'yesElf');
-yesElf('id', '7aeb2b05-545a-4558-9a4c-7652e88b143e');
+  (window, document, 'script', 'https://yeself-cloud-acc-app.brux.space:443/sdk/b47ec1e3-c04b-4195-b0c5-1811fc544676/app.js', 'yesElf');
+yesElf('id', 'b47ec1e3-c04b-4195-b0c5-1811fc544676');
 yesElf('popups', true);
 yesElf('segmentation', 'userId', 'testId');
 yesElf('segmentation', 'roles', 'admin');
